@@ -1,1 +1,1 @@
-# satiety-for-samprp
+# LUA Satiety для SAMP-RP
